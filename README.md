@@ -13,7 +13,7 @@ To set up and run the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone <repository-url>
+   git clone git@github.com:Yakup3/canaria-scrapy.git
    ```
 
 2. Navigate to the project directory:
